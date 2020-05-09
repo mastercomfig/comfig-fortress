@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>mastercomfig</title>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<style>
+.main-logo {
+  width: 128px
+}
+header {
+    margin-top: 10px
+}
+</style>
+</head>
+<body class="bg-dark text-light">
+<header class="container">
+<img src="https://raw.githubusercontent.com/mastercomfig/mastercomfig/gh-pages/favicon.png" alt="mastercomfig" class="main-logo">
+<h1 class="display-1 text-light">WELCOME TO<br><strong>COMFIG FORTRESS</strong>.</h1>
+<h2 class="display-6 text-light">An experimental new Team Fortress experience</h2>
+<a href="https://discord.gg/CuPb2zV" title="Discord" class="lead text-light"><u>Chat on Discord!</u></a>
+</header>
+</body>
+</html>
