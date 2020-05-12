@@ -1,0 +1,57 @@
+"tf2rebalance_attributes"
+{
+	"classes"
+	{
+		"scout"
+		{
+		}
+		"soldier"
+		{
+		}
+		"pyro"
+		{
+		}
+		"demoman"
+		{
+		}
+		"heavy"
+		{
+			// Critical damage resist
+			"attribute1"
+			{
+				"id"	"491"
+				"value"	"10"
+			}
+			// Rage on Hit
+			"attribute2"
+			{
+				"id"	"244"
+				"value"	"5"
+			}
+			// Damage bonus from Rage
+			"attribute3"
+			{
+				"id"	"245"
+				"value"	"25"
+			}
+		}
+		"engineer"
+		{
+		}
+		"sniper"
+		{
+		}
+		"medic"
+		{
+		}
+		"spy"
+		{
+		}
+		// Family Business
+		"425"
+		{
+			"id"	"230"
+			"value"	"1"
+		}
+	}
+}
