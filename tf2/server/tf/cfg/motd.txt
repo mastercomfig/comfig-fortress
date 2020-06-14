@@ -16,7 +16,7 @@ header {
 </head>
 <body class="bg-dark text-light">
 <header class="container">
-<img src="https://raw.githubusercontent.com/mastercomfig/mastercomfig/gh-pages/favicon.png" alt="mastercomfig" class="main-logo">
+<img src="https://mastercomfig.com/favicon.png" alt="mastercomfig" class="main-logo">
 <h1 class="display-1 text-light">WELCOME TO<br><strong>COMFIG FORTRESS</strong>.</h1>
 <h2 class="display-6 text-light">An experimental new Team Fortress experience</h2>
 <a href="https://discord.gg/CuPb2zV" title="Discord" class="lead text-light"><u>Chat on Discord!</u></a>
