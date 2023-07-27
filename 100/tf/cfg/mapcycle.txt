@@ -1,0 +1,14 @@
+ctf_turbine
+ctf_doublecross
+ctf_sawmill
+koth_badlands
+koth_brazil
+koth_harvest_final
+koth_highpass
+koth_king
+koth_lakeside_final
+koth_nucleus
+koth_sawmill
+koth_sharkbay
+koth_suijin
+koth_viaduct
